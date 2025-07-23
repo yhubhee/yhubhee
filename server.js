@@ -27,7 +27,7 @@ app.post('/login', (req, res) => {
 
 module.exports = app; 
 
-const port = 1000;
-app.listen(port, () =>{
-    console.log(`server started on port ${port}`)
-})
+// const port = 1000;
+// app.listen(port, () =>{
+//     console.log(`server started on port ${port}`)
+// })
